@@ -6,10 +6,10 @@
 [![mmx-license](http://img.shields.io/badge/license-MIT+-blue.svg)](https://github.com/JayBrown/mmx/blob/master/license.md)
 
 # M.M.X
-**M.M.X… for you, my lovelies… includes BitBar plugin, Automator Service, PopClip plugin**
+**M.M.X… for you, my lovelies… includes BitBar plugin, OS X workflow, PopClip plugin**
 
 ## Current status
-v0.3.4
+v0.3.4 (stable)
 
 Minimum OS X for full functionality: **10.10**
 
