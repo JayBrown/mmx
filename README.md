@@ -36,6 +36,13 @@ You need to have Spotlight enabled for `mdfind` to locate the terminal-notifier.
 * Launch BitBar again; it should now load M.M.X
 * During load, the main script will `chmod +x` the remaining subscripts
 
-### Subsequent installations
+### Subsequent installations (beginning with v0.4)
 * M.M.X will notify you if an update is available
 * Just click on "Update", and M.M.X will do the rest
+
+## Future functionality (v0.4 and later)
+* Subscripts for higher speed
+* Drop to plugin
+* Auto-update
+* Change refresh rate
+* Lots of minor tweaks
