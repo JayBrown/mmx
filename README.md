@@ -25,8 +25,8 @@ Install using [Homebrew](http://brew.sh) (or with a similar manager)
 
 You need to have Spotlight enabled for `mdfind` to locate the terminal-notifier.app on your volume; if you don't install terminal-notifier, or if you have deactivated Spotlight, M.M.X will call notifications via AppleScript instead
 
-## M.M.X main installations
-
+## M.M.X main installation
+### Initial installation
 * [Download the current release](https://github.com/JayBrown/mmx/releases); please choose the correct version, i.e. the "admin" version is, you guessed it, only for admins
 * Move both main script and the subfolder including the subscripts from the DMG into your BitBar plugins directory
 * Open your shell, `cd` to your BitBar plugins directory, and `chmod +x` the M.M.X script
@@ -35,3 +35,7 @@ You need to have Spotlight enabled for `mdfind` to locate the terminal-notifier.
 * Double-click the .popclipext file to install the extension into PopClip, and arrange there; delete any old version in case of an update
 * Launch BitBar again; it should now load M.M.X
 * During load, the main script will `chmod +x` the remaining subscripts
+
+### Subsequent installations
+* M.M.X will notify you if an update is available
+* Just click on "Update", and M.M.X will do the rest
