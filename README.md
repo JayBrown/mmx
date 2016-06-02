@@ -2,7 +2,7 @@
 ![mmx-code-shell](https://img.shields.io/badge/code-shell-yellow.svg)
 [![mmx-prereq-bitbar](https://img.shields.io/badge/prerequisite-BitBar%202.0%20beta4-brightgreen.svg)](https://github.com/matryer/bitbar)
 [![mmx-prereq-popclip](https://img.shields.io/badge/prerequisite-PopClip%201.5.5-brightgreen.svg)](https://github.com/matryer/bitbar)
-[![mmx-depend-tnote](https://img.shields.io/badge/dependency-terminal--notifer%201.6.3-green.svg)](https://github.com/alloy/terminal-notifier)
+[![mmx-depend-tnote](https://img.shields.io/badge/dependency-terminal--notifier%201.6.3-green.svg)](https://github.com/alloy/terminal-notifier)
 [![mmx-license](http://img.shields.io/badge/license-MIT+-blue.svg)](https://github.com/JayBrown/mmx/blob/master/license.md)
 
 # M.M.X
