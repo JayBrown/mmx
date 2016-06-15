@@ -1,4 +1,4 @@
-![mmx-platform-osx](https://img.shields.io/badge/platform-OS%20X-lightgrey.svg)
+![mmx-platform-macos](https://img.shields.io/badge/platform-macOS-lightgrey.svg)
 ![mmx-code-shell](https://img.shields.io/badge/code-shell-yellow.svg)
 [![mmx-prereq-bitbar](https://img.shields.io/badge/prerequisite-BitBar%202.0%20beta4-brightgreen.svg)](https://github.com/matryer/bitbar)
 [![mmx-prereq-popclip](https://img.shields.io/badge/prerequisite-PopClip%201.5.5-brightgreen.svg)](https://github.com/matryer/bitbar)
@@ -6,12 +6,12 @@
 [![mmx-license](http://img.shields.io/badge/license-MIT+-blue.svg)](https://github.com/JayBrown/mmx/blob/master/license.md)
 
 # M.M.X
-**M.M.X… for you, my lovelies… includes BitBar plugin, OS X workflow, PopClip plugin**
+**M.M.X… for you, my lovelies… includes BitBar plugin, macOS workflow, PopClip plugin**
 
 ## Current status
 v0.3.4 (stable)
 
-Minimum OS X for full functionality: **10.10**
+Minimum macOS for full functionality: **OS X 10.10**
 
 ## Prerequisites
 ### Manual installations
@@ -20,7 +20,7 @@ Install into `/Applications`
 * [PopClip](http://pilotmoon.com/popclip/): tested with **v1.5.5**
 
 ### Homebrew installations
-Install using [Homebrew](http://brew.sh) (or with a similar manager) 
+Install using [Homebrew](http://brew.sh) (or with a similar manager)
 * [terminal-notifier](https://github.com/alloy/terminal-notifier): `brew install terminal-notifier`
 
 You need to have Spotlight enabled for `mdfind` to locate the terminal-notifier.app on your volume; if you don't install terminal-notifier, or if you have deactivated Spotlight, M.M.X will call notifications via AppleScript instead
